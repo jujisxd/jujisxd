@@ -1,9 +1,9 @@
-# ¡Hola! Soy [Juanjo] 👋
+# ¡Hola! Soy Juanjo 👋
 
 **Software Developer & Multimedia Engineer**
 Especializado en desarrollo de aplicaciones multiplataforma, desarrollo web moderno y arquitecturas eficientes.
 
-[LinkedIn](https://linkedin.com/in/jujisfake) | [Email](juanjocarpa2002.jjcp@gmail.com) | [Web / Portafolio]([https://tu-web.com](https://jujisxd.github.io/miportafolio/))
+[LinkedIn](https://linkedin.com/in/jujisfake) | [Email](juanjocarpa2002.jjcp@gmail.com) | [Portafolio](https://jujisxd.github.io/miportafolio/)
 
 ---
 <!--
@@ -35,7 +35,7 @@ Especializado en desarrollo de aplicaciones multiplataforma, desarrollo web mode
 | **Lenguajes** | Java, C#, Python, C, JS/TS |
 | **Mobile & Web** | Flutter, Angular, Vue, HTML5/CSS3 |
 | **Backend & BD** | Node.js, Express, PostgreSQL, SQLite, Spring |
-| **Herramientas** | Git/GitHub, Docker, Linux, Xcode, Figma |
+| **Herramientas** | Git/GitHub, Docker, Linux, Figma |
 
 ---
 
@@ -45,7 +45,7 @@ Especializado en desarrollo de aplicaciones multiplataforma, desarrollo web mode
 
 ---
 
-📫 **¿Hablamos?** Puedes contactarme directamente en [tuemail@dominio.com](mailto:tuemail@dominio.com).
+📫 **¿Hablamos?** Puedes contactarme directamente con [mi email](juanjocarpa2002.jjcp@gmail.com).
 
 <!---
 jujisxd/jujisxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
